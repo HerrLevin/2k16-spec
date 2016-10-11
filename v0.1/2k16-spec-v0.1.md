@@ -45,6 +45,7 @@ Die Zuweisung ist auch einzeilig möglich:
 gönn dir [name] vong [type] her bim [value]
 ```
 
+>Das `her` nach dem Definieren des Typs ist nicht unbedingt erforderlich (Entwurf 1 von Website), wird aber dennoch empfohlen, weil es einfach schöner aussieht.
 
 #### Beispiel
 Die Variable `1⃣` wird als Integer mit einem Wert von `15` definiert.
