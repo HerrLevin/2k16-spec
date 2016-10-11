@@ -11,6 +11,20 @@ was ist das für 1 code?
 1 nicer!
 ```
 
+## Kommentare
+> Kommentare werden durch ein Zipper-Mouth Face (Unicode U+1F910) eingeleitet. Ein einzeiliger Kommentar wird mit einem 🤐 eingeleitet.
+```
+[code] 🤐 Das ist 1 nicer kommentar!
+```
+
+> Mehrzeilige Kommentare werden mit 🤐🤐 eingeleitet und mit 🤐 beendet.
+```
+🤐🤐 Das ist 1 alte Funktion, die wo nicht benutzt
+wierd. Deshalb stet hier 1 langes Kommentar!
+[kommentierter code]
+🤐
+```
+
 ## Variablen
 > Variablen **müssen** aus Emojis bestehen, ansonsten ist das Programm ungültig.
 
@@ -30,6 +44,7 @@ Die Zuweisung ist auch einzeilig möglich:
 ```
 gönn dir [name] vong [type] her bim [value]
 ```
+
 
 #### Beispiel
 Die Variable `1⃣` wird als Integer mit einem Wert von `15` definiert.
